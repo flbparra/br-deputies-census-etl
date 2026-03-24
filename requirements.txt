@@ -7,3 +7,4 @@ ipykernel
 openpyxl
 pytest
 pytest-mock
+httpx
