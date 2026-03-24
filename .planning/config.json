@@ -1,0 +1,12 @@
+{
+  "project_name": "br-deputies-census-etl",
+  "workflow": "new-project",
+  "language": "python",
+  "style": "google",
+  "conventions": [
+    "Type Hints mandatory",
+    "Docstrings mandatory",
+    "Logging with loguru",
+    "Resilience with mock data fallback"
+  ]
+}
